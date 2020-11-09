@@ -1,0 +1,3 @@
+
+D
+src/Soru1/Soru1.java,1\7\17f2b36858a001b2516cc034c4981313e0449c5b

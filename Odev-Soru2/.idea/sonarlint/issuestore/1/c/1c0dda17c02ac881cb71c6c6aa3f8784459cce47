@@ -1,0 +1,18 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÍÁş8‘ƒ¶êÚ.
+l
+java:S1104"PMake renk a static final constant or non-public and provide accessors if needed.(‚¸‡L8à¡ªèÚ.
+n
+java:S1104"QMake fiyat a static final constant or non-public and provide accessors if needed.(Ÿ‹öË8ì‚«èÚ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÍëùÿÿÿÿ8ñŞïèÚ.
+p	java:S116"TRename this field "model_yil" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äß—”8Âó˜çÚ.
+r
+java:S1104"UMake model_yil a static final constant or non-public and provide accessors if needed.(Äß—”8Âó˜çÚ.
+F
+java:S1172")Remove this unused method parameter "km".(ÏÍÁş8£¶êÚ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ş»¿¡8£¶êÚ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(à£
+n
+java:S1104"QMake marka a static final constant or non-public and provide accessors if needed.(Õ‘ä±8ª¿ÇêÚ.
+p
+java:S1104"NMake km a static final constant or non-public and provide accessors if needed.(Ú¿ó©ÿÿÿÿÿ8÷ú™çÚ.

@@ -1,0 +1,14 @@
+
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(ûé¿à8ç¦°ÒÚ.
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(‚÷—8¥ıéÚ.
+X
+java:S3518/";Make sure "sayac" can't be zero before doing this division.(ûé¿à8ÙÅ±éÚ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(·ƒ‚—ùÿÿÿÿ8û™„êÚ.
+]
+java:S3518";Make sure "sayac" can't be zero before doing this division.(ğõ…íùÿÿÿÿ8²œ±éÚ.
+X
+java:S3518;";Make sure "sayac" can't be zero before doing this division.(‚÷—8¥ıéÚ.
+\
+java:S1128"?Remove this unused import 'javax.naming.NameNotFoundException'.(£´Â8€ÆÊéÚ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(–ßÒ8šÏ‚êÚ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—çãÿÿÿÿÿ
